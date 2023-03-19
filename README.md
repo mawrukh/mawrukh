@@ -15,11 +15,11 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mawrukhe&theme=react-dark&hide_border=true&area=true)
 
 ## Profile Visitors Counter
 
-![Profile Visitors Counter](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Visitors Counter](https://komarev.com/ghpvc/?username=mawrukh)
 
 ## Skills Chart
 
@@ -31,4 +31,4 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 
 Recently Played Spotify Songs
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=yourusername)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=creepygal)
