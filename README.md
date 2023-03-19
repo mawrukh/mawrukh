@@ -15,7 +15,7 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mawrukh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mawrukh)](https://github.com/mawrukh/github-readme-activity-graph)
 
 ## Profile Visitors Counter
 
