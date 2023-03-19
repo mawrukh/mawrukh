@@ -15,7 +15,7 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 
 ## GitHub Activity
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mawrukh)](https://github.com/mawrukh/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mawrukh&theme=github)](https://github.com/mawrukh/github-readme-activity-graph)
 
 ## Profile Visitors Counter
 
