@@ -13,3 +13,22 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 [![Mawrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawrukh&show_icons=true&theme=radical)](https://github.com/mawrukh/github-readme-stats)
 
 
+## GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+
+## Profile Visitors Counter
+
+![Profile Visitors Counter](https://komarev.com/ghpvc/?username=yourusername)
+
+## Skills Chart
+
+![Python](https://img.shields.io/badge/Python-Expert-green)
+![R](https://img.shields.io/badge/R-Intermediate-yellow)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Expert-green)
+
+
+Recently Played Spotify Songs
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=yourusername)
