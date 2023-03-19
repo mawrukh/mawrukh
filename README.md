@@ -21,14 +21,10 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 
 ![Profile Visitors Counter](https://komarev.com/ghpvc/?username=mawrukh)
 
-## Skills Chart
+<!-- ## Skills Chart
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![R](https://img.shields.io/badge/R-Beginner-pink)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Expert-green)
-
-
-## Recently Played Spotify Songs
-
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=creepygal)
+ -->
