@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**mawrukh/mawrukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Software Engineer by Profession. I enjoy working with data and visualizations. I've got a passion for all things data, from statistics to visualizations and everything in between. Some might even call me a data whisperer, able to coax insights from even the most unruly datasets.
 
-Here are some ideas to get you started:
+When I'm not slinging code or poring over spreadsheets, you can usually find me exploring the great outdoors or searching for the perfect cup of coffee. In fact, I firmly believe that a well-brewed cup of coffee is essential to any successful data analysis session.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But don't let my laid-back attitude fool you - I take my work seriously. I've got a keen eye for detail and a dedication to producing high-quality work. Whether I'm wrangling data or building out a dashboard, I'm always striving to deliver top-notch results.
+
+So if you're looking for a data rockstar who isn't afraid to bring a little personality to the table, look no further. Let's grab a cup of coffee (or three) and chat about how I can help you turn your data dreams into a reality.
+
+## Stats
+[![Mawrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawrukh&show_icons=true&theme=radical)](https://github.com/mawrukh/github-readme-stats)
+
+
