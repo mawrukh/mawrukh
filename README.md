@@ -15,7 +15,7 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mawrukhe&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mawrukh&theme=react-dark&hide_border=true&area=true)
 
 ## Profile Visitors Counter
 
@@ -23,12 +23,12 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 
 ## Skills Chart
 
-![Python](https://img.shields.io/badge/Python-Expert-green)
-![R](https://img.shields.io/badge/R-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![R](https://img.shields.io/badge/R-Beginner-pink)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Expert-green)
 
 
-Recently Played Spotify Songs
+## Recently Played Spotify Songs
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=creepygal)
