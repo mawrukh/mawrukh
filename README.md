@@ -15,7 +15,7 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mawrukh&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mawrukh & theme=react-dark&hide_border=true&area=true)
 
 ## Profile Visitors Counter
 
