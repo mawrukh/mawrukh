@@ -12,6 +12,9 @@ So if you're looking for a data rockstar who isn't afraid to bring a little pers
 ## Stats
 [![Mawrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawrukh&show_icons=true&theme=radical)](https://github.com/mawrukh/github-readme-stats)
 
+## Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawrukh)](https://github.com/mawrukh/github-readme-stats)
 
 ## GitHub Activity
 
